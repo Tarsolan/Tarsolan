@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Alex! 👋
+Currently a Software Development student at Keyin College
+Learning several different languages - Python, Java, Javascript, and more!
+Training in React development!
+
+Open to work! Find Alex Ridgeley on LinkedIn.
 
 <!--
 **Tarsolan/Tarsolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
