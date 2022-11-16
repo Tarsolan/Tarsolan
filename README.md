@@ -1,5 +1,6 @@
 ### Hi there, I'm Alex! 👋
 Check out my portfolio at aridgeleyportfolio.ca!
+
 Currently a Software Development student at Keyin College
 Learning several different languages - Python, Java, Javascript, and more!
 Training in React development!
