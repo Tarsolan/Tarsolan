@@ -1,11 +1,11 @@
 ### Hi there, I'm Alex! 👋
 Check out my portfolio at www.aridgeleyportfolio.ca!
 
-Currently a Software Development student at Keyin College
-Learning several different languages - Python, Java, Javascript, and more!
-Training in React development!
+Currently a Remote Support Engineer with West Highland Support Services.
 
-Open to work!  
+I am a graduate of the Software Development program at Keyin College.
+I am trained in several different languages - Python, Java, Javascript, and more!
+Skilled in React development!  
 
 Feel free to connect with me on LinkedIn!
 
